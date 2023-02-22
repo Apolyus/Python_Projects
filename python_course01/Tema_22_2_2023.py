@@ -52,4 +52,4 @@ list_for_intersect = [3, 6, 9]
 list_8 = set(list_1).intersection(list_for_intersect)
 
 print("intersection :", sorted(list_8))
->>>>>>> origin/main
+
