@@ -5,7 +5,7 @@ while try_count < how_many_tries:
         age = int(input("Put your age :"))
     except ValueError:
         print("Invalid data value")
-        try_count = try_count + 1
+        try_count += 1
         print(f"You have {how_many_tries-try_count} chances remaining")
         continue
     if int(age) < 18:
