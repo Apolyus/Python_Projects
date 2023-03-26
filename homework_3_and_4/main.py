@@ -1,6 +1,6 @@
-from My_func.sum_in_list import i_do_sums_for_args
-from My_func.recursive_sum import i_do_sums_for_inputs
-from My_func.read_integer import i_read_function
+from my_functions.sum_in_list import i_do_sums_for_args
+from my_functions.recursive_sum import i_do_sums_for_inputs
+from my_functions.read_integer import i_read_function
 
 if __name__ == '__main__':
 
