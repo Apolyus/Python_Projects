@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "A8",
+    "horse power": 170,
+    "price": 4500
+  },
+  {
+    "id": 5,
+    "brand": "Opel",
+    "model": "Corsa",
+    "horse power": 130,
+    "price": 4000
+  }
+]

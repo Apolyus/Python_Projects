@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "brand": "Bentley",
+    "model": "Continental",
+    "horse power": 110,
+    "price": 6500
+  },
+  {
+    "id": 6,
+    "brand": "Toyota",
+    "model": "Supra",
+    "horse power": 190,
+    "price": 6000
+  }
+]

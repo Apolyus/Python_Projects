@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "brand": "Dacia",
+    "model": "Solenza",
+    "horse power": 100,
+    "price": 900
+  },
+  {
+    "id": 8,
+    "brand": "Dacia",
+    "model": "Duster",
+    "horse power": 120,
+    "price": 950
+  }
+]
