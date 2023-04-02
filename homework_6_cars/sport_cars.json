@@ -1,23 +1,16 @@
 [
   {
-    "id": 3,
-    "brand": "Dacia",
-    "model": "Solenza",
-    "horse power": 100,
-    "price": 900
+    "id": 2,
+    "brand": "Audi",
+    "model": "A8",
+    "horse power": 170,
+    "price": 4500
   },
   {
-    "id": 4,
-    "brand": "BMW",
-    "model": "E46",
-    "horse power": 105,
-    "price": 900
-  },
-  {
-    "id": 8,
-    "brand": "Dacia",
-    "model": "Duster",
-    "horse power": 120,
-    "price": 950
+    "id": 5,
+    "brand": "Opel",
+    "model": "Corsa",
+    "horse power": 130,
+    "price": 4000
   }
 ]

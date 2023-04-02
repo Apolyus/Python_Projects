@@ -54,7 +54,7 @@ if __name__ == '__main__':
     with open("fast_cars.json", "w") as file:
         json.dump(sort_by_hp2, file, indent=2)
 
-    with open("slow_cars.json", "w") as file:
+    with open("sport_cars.json", "w") as file:
         json.dump(sort_by_hp3, file, indent=2)
 
     with open("Dacia.json", "w") as file:
