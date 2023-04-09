@@ -22,7 +22,6 @@ class Fractions:
 
 
 if __name__ == '__main__':
-
     fractions = Fractions(3, 2)
     print("The numbers are :", fractions.__str__())
     print("Addition : ", fractions.__add__(2, 2))
